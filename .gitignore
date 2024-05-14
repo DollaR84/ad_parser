@@ -1,0 +1,6 @@
+.env/
+__pycache__/
+.flake8
+.pylintrc
+*.log
+*.json
